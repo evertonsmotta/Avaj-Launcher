@@ -1,0 +1,133 @@
+Tower says: Balloon#B1(1) registered to weather tower.
+Tower says: Balloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Balloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Balloon#B1(1): Did someone erase the horizon?
+Balloon#B2(2): The balloon is turning into a snow globe.
+JetPlane#J1(3): Descending before the wings need mittens.
+Helicopter#H1(4): My rotor did not pack a winter coat.
+Helicopter#H2(5): My rotor did not pack a winter coat.
+Helicopter#H3(6): The scenic route has lost its scenery.
+Balloon#B3(7): Perfect light for an aerial photo.
+JetPlane#J2(8): Clear skies and a smooth climb.
+Helicopter#H4(9): The rotor is not an umbrella.
+Balloon#B1(1): The balloon is turning into a snow globe.
+Balloon#B2(2): Did someone erase the horizon?
+JetPlane#J1(3): The view from every seat is now the same.
+Helicopter#H1(4): The rotor is not an umbrella.
+Helicopter#H2(5): The rotor is not an umbrella.
+Helicopter#H3(6): My rotor did not pack a winter coat.
+Balloon#B3(7): Did someone erase the horizon?
+JetPlane#J2(8): The view from every seat is now the same.
+Helicopter#H4(9): Taking the scenic route.
+Balloon#B1(1): Did someone erase the horizon?
+Balloon#B1(1) landing.
+Tower says: Balloon#B1(1) unregistered from weather tower.
+Balloon#B2(2): The balloon is turning into a snow globe.
+JetPlane#J1(3): Descending before the wings need mittens.
+Helicopter#H1(4): Taking the scenic route.
+Helicopter#H2(5): Taking the scenic route.
+Helicopter#H3(6): The rotor is not an umbrella.
+Balloon#B3(7): The balloon is turning into a snow globe.
+JetPlane#J2(8): Descending before the wings need mittens.
+Helicopter#H4(9): My rotor did not pack a winter coat.
+Balloon#B2(2): Did someone erase the horizon?
+JetPlane#J1(3): The view from every seat is now the same.
+Helicopter#H1(4): My rotor did not pack a winter coat.
+Helicopter#H1(4) landing.
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H2(5): My rotor did not pack a winter coat.
+Helicopter#H3(6): Taking the scenic route.
+Balloon#B3(7): Did someone erase the horizon?
+JetPlane#J2(8): The view from every seat is now the same.
+Helicopter#H4(9): The rotor is not an umbrella.
+Balloon#B2(2): The balloon is turning into a snow globe.
+JetPlane#J1(3): Descending before the wings need mittens.
+Helicopter#H2(5): The rotor is not an umbrella.
+Helicopter#H3(6): My rotor did not pack a winter coat.
+Balloon#B3(7): The balloon is turning into a snow globe.
+JetPlane#J2(8): Descending before the wings need mittens.
+Helicopter#H4(9): Taking the scenic route.
+Balloon#B2(2): Did someone erase the horizon?
+JetPlane#J1(3): The view from every seat is now the same.
+Helicopter#H2(5): Taking the scenic route.
+Helicopter#H3(6): The rotor is not an umbrella.
+Balloon#B3(7): Did someone erase the horizon?
+Balloon#B3(7) landing.
+Tower says: Balloon#B3(7) unregistered from weather tower.
+JetPlane#J2(8): The view from every seat is now the same.
+Helicopter#H4(9): My rotor did not pack a winter coat.
+Balloon#B2(2): The balloon is turning into a snow globe.
+Balloon#B2(2) landing.
+Tower says: Balloon#B2(2) unregistered from weather tower.
+JetPlane#J1(3): Descending before the wings need mittens.
+Helicopter#H2(5): My rotor did not pack a winter coat.
+Helicopter#H3(6): Taking the scenic route.
+JetPlane#J2(8): Descending before the wings need mittens.
+Helicopter#H4(9): The rotor is not an umbrella.
+JetPlane#J1(3): The view from every seat is now the same.
+Helicopter#H2(5): The rotor is not an umbrella.
+Helicopter#H3(6): My rotor did not pack a winter coat.
+JetPlane#J2(8): The view from every seat is now the same.
+Helicopter#H4(9): Taking the scenic route.
+JetPlane#J1(3): Descending before the wings need mittens.
+JetPlane#J1(3) landing.
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+Helicopter#H2(5): Taking the scenic route.
+Helicopter#H3(6): The rotor is not an umbrella.
+JetPlane#J2(8): Descending before the wings need mittens.
+Helicopter#H4(9): My rotor did not pack a winter coat.
+Helicopter#H2(5): My rotor did not pack a winter coat.
+Helicopter#H3(6): Taking the scenic route.
+JetPlane#J2(8): The view from every seat is now the same.
+Helicopter#H4(9): The rotor is not an umbrella.
+Helicopter#H2(5): The rotor is not an umbrella.
+Helicopter#H3(6): My rotor did not pack a winter coat.
+JetPlane#J2(8): Descending before the wings need mittens.
+Helicopter#H4(9): Taking the scenic route.
+Helicopter#H2(5): Taking the scenic route.
+Helicopter#H3(6): The rotor is not an umbrella.
+JetPlane#J2(8): The view from every seat is now the same.
+Helicopter#H4(9): My rotor did not pack a winter coat.
+Helicopter#H2(5): My rotor did not pack a winter coat.
+Helicopter#H2(5) landing.
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Helicopter#H3(6): Taking the scenic route.
+JetPlane#J2(8): Descending before the wings need mittens.
+Helicopter#H4(9): The rotor is not an umbrella.
+Helicopter#H3(6): My rotor did not pack a winter coat.
+JetPlane#J2(8): The view from every seat is now the same.
+Helicopter#H4(9): Taking the scenic route.
+Helicopter#H3(6): The rotor is not an umbrella.
+JetPlane#J2(8): Descending before the wings need mittens.
+Helicopter#H4(9): My rotor did not pack a winter coat.
+Helicopter#H3(6): Taking the scenic route.
+JetPlane#J2(8): The view from every seat is now the same.
+Helicopter#H4(9): The rotor is not an umbrella.
+Helicopter#H3(6): My rotor did not pack a winter coat.
+JetPlane#J2(8): Descending before the wings need mittens.
+Helicopter#H4(9): Taking the scenic route.
+Helicopter#H3(6): The rotor is not an umbrella.
+JetPlane#J2(8): The view from every seat is now the same.
+Helicopter#H4(9): My rotor did not pack a winter coat.
+Helicopter#H4(9) landing.
+Tower says: Helicopter#H4(9) unregistered from weather tower.
+Helicopter#H3(6): Taking the scenic route.
+JetPlane#J2(8): Descending before the wings need mittens.
+Helicopter#H3(6): My rotor did not pack a winter coat.
+JetPlane#J2(8): The view from every seat is now the same.
+Helicopter#H3(6): The rotor is not an umbrella.
+JetPlane#J2(8): Descending before the wings need mittens.
+Helicopter#H3(6): Taking the scenic route.
+JetPlane#J2(8): The view from every seat is now the same.
+Helicopter#H3(6): My rotor did not pack a winter coat.
+JetPlane#J2(8): Descending before the wings need mittens.
+Helicopter#H3(6): The rotor is not an umbrella.
+JetPlane#J2(8): The view from every seat is now the same.
+Helicopter#H3(6): Taking the scenic route.
+JetPlane#J2(8): Descending before the wings need mittens.
